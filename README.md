@@ -1,6 +1,4 @@
-# TransactionManager
-
-# RU Bank Transaction Manager
+# Bank Transaction Manager
 
 RU Bank Transaction Manager is a simple software developed by my partner and me to handle banking transactions for RU Bank. The software allows users to input transactions via command lines on the terminal. It is an interactive system that produces output instantly upon entering a transaction. The software supports various types of transactions, including account opening, closing, depositing, withdrawing, and displaying account details. 
 
