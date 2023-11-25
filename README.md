@@ -63,11 +63,4 @@ To use RU Bank Transaction Manager, simply input the commands as described above
 ## TestCases
 - Refer to Project2TestCases.txt for testcases
 - Expected output in Project2ExpectedOutput.txt
-
-## Contributing
-
-
-## License
-
-
-
+  
